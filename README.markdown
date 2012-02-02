@@ -1,9 +1,6 @@
+Haskell Compression Algorithms
 
-# Haskell Compression Algorithms
-
----
-
-#### based : http://www.haskell.org/haskellwiki/Toy_compression_implementations
+http://www.haskell.org/haskellwiki/Toy_compression_implementations
 
 ---
 
